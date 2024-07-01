@@ -1,6 +1,6 @@
 
 # Invoice Management System
-(https://invoceapp.vercel.app/home) 
+https://invoceapp.vercel.app/
 Invoice Management System is a comprehensive invoicing application designed to simplify and streamline the invoicing process for businesses and freelancers. With a user-friendly interface and robust features, Invoice Management System ensures that you can manage your invoices efficiently and effectively.
 
 ## Features
